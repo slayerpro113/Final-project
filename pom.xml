@@ -21,7 +21,7 @@
         <spring.security.version>4.1.3.RELEASE</spring.security.version>
         <servlet.api.version>3.1.0</servlet.api.version>
         <common.logging.version>1.2</common.logging.version>
-        <jackson.version>2.5.0</jackson.version>
+        <jackson.version>2.13.4.1</jackson.version>
         <fileupload.version>1.3.1</fileupload.version>
 
     </properties>
